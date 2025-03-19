@@ -12,7 +12,8 @@ Este es un pequeño proyecto web que permite agregar nombres de amigos y realiza
 
 ## 📷 Capturas de Pantalla
 
-_Agrega aquí imágenes o GIFs del proyecto en funcionamiento._
+![image](https://github.com/user-attachments/assets/267917b6-5571-42af-9caa-7626ad8ff40b)
+
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -37,7 +38,7 @@ _Agrega aquí imágenes o GIFs del proyecto en funcionamiento._
 
 ## 🤝 Contribuciones
 
-Si deseas mejorar este proyecto, ¡siéntete libre de hacer un fork y enviar un pull request! 😊
+Puedes mejorar este protecto libremente.
 
 ## 📜 Licencia
 
